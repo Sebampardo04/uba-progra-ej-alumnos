@@ -1,0 +1,13 @@
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.exe
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.deps.json
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.runtimeconfig.json
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.runtimeconfig.dev.json
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.dll
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\bin\Debug\netcoreapp3.1\CRECION DE TABLAS.pdb
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.dll
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.pdb
+C:\Users\sebas\OneDrive\Desktop\CRECION DE TABLAS\CRECION DE TABLAS\obj\Debug\netcoreapp3.1\CRECION DE TABLAS.genruntimeconfig.cache
